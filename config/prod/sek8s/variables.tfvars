@@ -9,7 +9,7 @@ nodes   =   [
     },
     {
       name              =       "master2"  
-      address           =       "xx.xx.179.55"
+      address           =       "xx.xx.x.x"
       ssh_user          =       "xxxx"
       ssh_key_path      =       "~/.ssh/id_rsa"
       port              =       22
@@ -17,7 +17,7 @@ nodes   =   [
     },
     {
       name              =       "master3"  
-      address           =       "192.168.179.56"
+      address           =       "x.x.x.x"
       ssh_user          =       "xxxx"
       ssh_key_path      =       "~/.ssh/id_rsa"
       port              =       22
